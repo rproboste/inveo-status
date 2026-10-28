@@ -1,31 +1,48 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: rproboste
+repo: inveo-status
+user-agent: inveo-status
+delay: 5000
+skipDescriptionUpdate: false
+skipTopicsUpdate: false
+skipHomepageUpdate: false
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Portal
+    url: https://inveo.cl/
+    headers: ["User-Agent: InveoStatus/1.0 (+https://status.inveo.cl)"]
+    maxResponseTime: 3000
+  - name: Inicio de sesión
+    url: https://auth.inveo.cl/.well-known/openid-configuration
+    headers: ["User-Agent: InveoStatus/1.0 (+https://status.inveo.cl)"]
+    maxResponseTime: 3000
+    __dangerous__body_down_if_text_missing: authorization_endpoint
+  - name: Radar de licitaciones
+    url: https://radar.inveo.cl/
+    headers: ["User-Agent: InveoStatus/1.0 (+https://status.inveo.cl)"]
+    maxResponseTime: 3000
+  - name: API
+    url: https://api.inveo.cl/ip/v1/
+    headers: ["User-Agent: InveoStatus/1.0 (+https://status.inveo.cl)"]
+    maxResponseTime: 3000
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: status.inveo.cl
+  name: Estado de Inveo
+  theme: light
+  favicon: https://inveo.cl/favicon.svg
+  introTitle: Estado público de Inveo
+  introMessage: >-
+    Comprobamos desde fuera, desde la nube de GitHub, la disponibilidad de solo
+    cuatro servicios de [Inveo](https://inveo.cl) cada 5 minutos: Portal,
+    Inicio de sesión, Radar de licitaciones y API. No hay datos anteriores a
+    la puesta en marcha. «Degradado» significa una respuesta de más de 3 segundos.
+    Las mantenciones anunciadas se excluyen según su programación en Upptime.
+    [Contacto y soporte](mailto:contacto@inveo.cl).
   navbar:
-    - title: Status
+    - title: Estado
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+    - title: Inveo
+      href: https://inveo.cl
+  robotsText: |
+    User-agent: *
+    Allow: /
