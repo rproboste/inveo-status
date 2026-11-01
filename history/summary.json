@@ -4,19 +4,19 @@
     "url": "https://inveo.cl/",
     "icon": "https://icons.duckduckgo.com/ip3/inveo.cl.ico",
     "slug": "portal",
-    "status": "degraded",
-    "uptime": "99.96%",
-    "uptimeDay": "99.87%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 1163,
-    "timeDay": 1269,
-    "timeWeek": 1163,
-    "timeMonth": 1163,
-    "timeYear": 1163,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 1214,
+    "timeDay": 1328,
+    "timeWeek": 1214,
+    "timeMonth": 1214,
+    "timeYear": 1214,
     "dailyMinutesDown": {
-      "2026-11-01": 2
+      "2026-11-01": 5
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://radar.inveo.cl/",
     "icon": "https://icons.duckduckgo.com/ip3/radar.inveo.cl.ico",
     "slug": "radar-de-licitaciones",
-    "status": "degraded",
-    "uptime": "99.98%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 2143,
-    "timeDay": 2424,
-    "timeWeek": 2143,
-    "timeMonth": 2143,
-    "timeYear": 2143,
+    "status": "up",
+    "uptime": "99.92%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.92%",
+    "time": 2103,
+    "timeDay": 2367,
+    "timeWeek": 2103,
+    "timeMonth": 2103,
+    "timeYear": 2103,
     "dailyMinutesDown": {
-      "2026-11-01": 1
+      "2026-11-01": 4
     }
   },
   {
@@ -62,21 +62,21 @@
     "url": "https://api.inveo.cl/ip/v1/",
     "icon": "https://icons.duckduckgo.com/ip3/api.inveo.cl.ico",
     "slug": "api",
-    "status": "degraded",
-    "uptime": "88.59%",
-    "uptimeDay": "85.58%",
-    "uptimeWeek": "88.59%",
-    "uptimeMonth": "88.59%",
-    "uptimeYear": "88.59%",
-    "time": 2504,
-    "timeDay": 2476,
-    "timeWeek": 2504,
-    "timeMonth": 2504,
-    "timeYear": 2504,
+    "status": "up",
+    "uptime": "88.54%",
+    "uptimeDay": "85.59%",
+    "uptimeWeek": "88.54%",
+    "uptimeMonth": "88.54%",
+    "uptimeYear": "88.54%",
+    "time": 2464,
+    "timeDay": 2429,
+    "timeWeek": 2464,
+    "timeMonth": 2464,
+    "timeYear": 2464,
     "dailyMinutesDown": {
       "2026-10-30": 196,
       "2026-10-31": 386,
-      "2026-11-01": 0
+      "2026-11-01": 3
     }
   }
 ]
