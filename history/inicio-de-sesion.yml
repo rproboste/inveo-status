@@ -1,7 +1,7 @@
 url: https://auth.inveo.cl/.well-known/openid-configuration
-status: up
+status: degraded
 code: 200
-responseTime: 537
-lastUpdated: 2026-11-01T15:18:03.627Z
+responseTime: 9970
+lastUpdated: 2026-11-01T15:32:52.396Z
 startTime: 2026-10-28T20:13:39.777Z
 generator: Upptime <https://github.com/upptime/upptime>
