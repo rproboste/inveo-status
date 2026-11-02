@@ -22,18 +22,20 @@
     "url": "https://auth.inveo.cl/.well-known/openid-configuration",
     "icon": "https://icons.duckduckgo.com/ip3/auth.inveo.cl.ico",
     "slug": "inicio-de-sesion",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1242,
-    "timeDay": 1621,
-    "timeWeek": 1242,
-    "timeMonth": 1242,
-    "timeYear": 1242,
-    "dailyMinutesDown": {}
+    "status": "degraded",
+    "uptime": "99.98%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1319,
+    "timeDay": 1728,
+    "timeWeek": 1319,
+    "timeMonth": 1319,
+    "timeYear": 1319,
+    "dailyMinutesDown": {
+      "2026-11-02": 1
+    }
   },
   {
     "name": "Radar de licitaciones",
@@ -58,20 +60,21 @@
     "url": "https://api.inveo.cl/ip/v1/",
     "icon": "https://icons.duckduckgo.com/ip3/api.inveo.cl.ico",
     "slug": "api",
-    "status": "up",
-    "uptime": "90.30%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "90.30%",
-    "uptimeMonth": "90.30%",
-    "uptimeYear": "90.30%",
-    "time": 2320,
-    "timeDay": 2310,
-    "timeWeek": 2320,
-    "timeMonth": 2320,
-    "timeYear": 2320,
+    "status": "degraded",
+    "uptime": "90.37%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "90.37%",
+    "uptimeMonth": "90.37%",
+    "uptimeYear": "90.37%",
+    "time": 2350,
+    "timeDay": 2362,
+    "timeWeek": 2350,
+    "timeMonth": 2350,
+    "timeYear": 2350,
     "dailyMinutesDown": {
       "2026-10-30": 196,
-      "2026-10-31": 386
+      "2026-10-31": 386,
+      "2026-11-02": 0
     }
   }
 ]
