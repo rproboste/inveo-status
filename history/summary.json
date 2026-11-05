@@ -42,19 +42,19 @@
     "url": "https://radar.inveo.cl/",
     "icon": "https://icons.duckduckgo.com/ip3/radar.inveo.cl.ico",
     "slug": "radar-de-licitaciones",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1822,
-    "timeDay": 1714,
-    "timeWeek": 1846,
-    "timeMonth": 1822,
-    "timeYear": 1822,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1816,
+    "timeDay": 1686,
+    "timeWeek": 1840,
+    "timeMonth": 1816,
+    "timeYear": 1816,
     "dailyMinutesDown": {
-      "2026-11-05": 0
+      "2026-11-05": 5
     }
   },
   {
