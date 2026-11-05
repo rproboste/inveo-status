@@ -22,18 +22,20 @@
     "url": "https://auth.inveo.cl/.well-known/openid-configuration",
     "icon": "https://icons.duckduckgo.com/ip3/auth.inveo.cl.ico",
     "slug": "inicio-de-sesion",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1177,
-    "timeDay": 1092,
-    "timeWeek": 1194,
-    "timeMonth": 1177,
-    "timeYear": 1177,
-    "dailyMinutesDown": {}
+    "time": 1201,
+    "timeDay": 1218,
+    "timeWeek": 1218,
+    "timeMonth": 1201,
+    "timeYear": 1201,
+    "dailyMinutesDown": {
+      "2026-11-05": 0
+    }
   },
   {
     "name": "Radar de licitaciones",
