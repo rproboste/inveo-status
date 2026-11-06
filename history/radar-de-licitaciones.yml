@@ -1,7 +1,7 @@
 url: https://radar.inveo.cl/
-status: up
+status: degraded
 code: 200
-responseTime: 747
-lastUpdated: 2026-11-06T20:28:05.481Z
+responseTime: 5840
+lastUpdated: 2026-11-06T21:22:54.555Z
 startTime: 2026-10-28T20:13:45.582Z
 generator: Upptime <https://github.com/upptime/upptime>
