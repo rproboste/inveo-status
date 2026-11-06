@@ -42,19 +42,19 @@
     "url": "https://radar.inveo.cl/",
     "icon": "https://icons.duckduckgo.com/ip3/radar.inveo.cl.ico",
     "slug": "radar-de-licitaciones",
-    "status": "degraded",
-    "uptime": "99.99%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1771,
-    "timeDay": 1564,
-    "timeWeek": 1794,
-    "timeMonth": 1771,
-    "timeYear": 1771,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.69%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 1768,
+    "timeDay": 1549,
+    "timeWeek": 1790,
+    "timeMonth": 1768,
+    "timeYear": 1768,
     "dailyMinutesDown": {
-      "2026-11-06": 1
+      "2026-11-06": 5
     }
   },
   {
@@ -62,20 +62,21 @@
     "url": "https://api.inveo.cl/ip/v1/",
     "icon": "https://icons.duckduckgo.com/ip3/api.inveo.cl.ico",
     "slug": "api",
-    "status": "degraded",
-    "uptime": "95.49%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.17%",
-    "uptimeMonth": "95.49%",
-    "uptimeYear": "95.49%",
-    "time": 2047,
-    "timeDay": 1973,
-    "timeWeek": 2035,
-    "timeMonth": 2047,
-    "timeYear": 2047,
+    "status": "up",
+    "uptime": "95.45%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "96.13%",
+    "uptimeMonth": "95.45%",
+    "uptimeYear": "95.45%",
+    "time": 2042,
+    "timeDay": 1950,
+    "timeWeek": 2030,
+    "timeMonth": 2042,
+    "timeYear": 2042,
     "dailyMinutesDown": {
       "2026-10-30": 196,
-      "2026-10-31": 386
+      "2026-10-31": 386,
+      "2026-11-06": 4
     }
   }
 ]
