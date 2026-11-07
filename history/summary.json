@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1001,
-    "timeDay": 756,
-    "timeWeek": 1011,
+    "timeDay": 760,
+    "timeWeek": 1010,
     "timeMonth": 1001,
     "timeYear": 1001,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "99.95%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 1088,
-    "timeDay": 809,
-    "timeWeek": 1107,
-    "timeMonth": 1088,
-    "timeYear": 1088,
+    "time": 1086,
+    "timeDay": 805,
+    "timeWeek": 1105,
+    "timeMonth": 1086,
+    "timeYear": 1086,
     "dailyMinutesDown": {
       "2026-11-05": 5
     }
@@ -43,19 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/radar.inveo.cl.ico",
     "slug": "radar-de-licitaciones",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 1808,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1804,
     "timeDay": 2029,
-    "timeWeek": 1836,
-    "timeMonth": 1808,
-    "timeYear": 1808,
-    "dailyMinutesDown": {
-      "2026-11-07": 5
-    }
+    "timeWeek": 1831,
+    "timeMonth": 1804,
+    "timeYear": 1804,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -63,20 +61,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.inveo.cl.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "95.83%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "95.83%",
-    "uptimeYear": "95.83%",
-    "time": 1967,
-    "timeDay": 1460,
-    "timeWeek": 1959,
-    "timeMonth": 1967,
-    "timeYear": 1967,
+    "uptime": "95.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "95.87%",
+    "uptimeYear": "95.87%",
+    "time": 1963,
+    "timeDay": 1462,
+    "timeWeek": 1954,
+    "timeMonth": 1963,
+    "timeYear": 1963,
     "dailyMinutesDown": {
       "2026-10-30": 196,
-      "2026-10-31": 386,
-      "2026-11-07": 4
+      "2026-10-31": 386
     }
   }
 ]
