@@ -62,7 +62,7 @@
     "slug": "api",
     "status": "degraded",
     "uptime": "95.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.99%",
     "uptimeYear": "95.99%",
@@ -73,7 +73,8 @@
     "timeYear": 1955,
     "dailyMinutesDown": {
       "2026-10-30": 196,
-      "2026-10-31": 386
+      "2026-10-31": 386,
+      "2026-11-07": 0
     }
   }
 ]
