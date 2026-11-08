@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/inveo.cl.ico",
     "slug": "portal",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 990,
-    "timeDay": 916,
-    "timeWeek": 871,
-    "timeMonth": 990,
-    "timeYear": 990,
-    "dailyMinutesDown": {
-      "2026-11-08": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 989,
+    "timeDay": 920,
+    "timeWeek": 870,
+    "timeMonth": 989,
+    "timeYear": 989,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Inicio de sesión",
@@ -30,11 +28,11 @@
     "uptimeWeek": "99.95%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 1130,
-    "timeDay": 1401,
-    "timeWeek": 1139,
-    "timeMonth": 1130,
-    "timeYear": 1130,
+    "time": 1127,
+    "timeDay": 1402,
+    "timeWeek": 1136,
+    "timeMonth": 1127,
+    "timeYear": 1127,
     "dailyMinutesDown": {
       "2026-11-05": 5
     }
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1793,
-    "timeDay": 1712,
-    "timeWeek": 1733,
-    "timeMonth": 1793,
-    "timeYear": 1793,
+    "time": 1789,
+    "timeDay": 1717,
+    "timeWeek": 1729,
+    "timeMonth": 1789,
+    "timeYear": 1789,
     "dailyMinutesDown": {}
   },
   {
@@ -68,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.27%",
     "uptimeYear": "96.27%",
-    "time": 1932,
-    "timeDay": 1667,
-    "timeWeek": 1834,
-    "timeMonth": 1932,
-    "timeYear": 1932,
+    "time": 1928,
+    "timeDay": 1618,
+    "timeWeek": 1829,
+    "timeMonth": 1928,
+    "timeYear": 1928,
     "dailyMinutesDown": {
       "2026-10-30": 196,
       "2026-10-31": 386
