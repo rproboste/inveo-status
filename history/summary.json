@@ -60,21 +60,21 @@
     "url": "https://api.inveo.cl/ip/v1/",
     "icon": "https://icons.duckduckgo.com/ip3/api.inveo.cl.ico",
     "slug": "api",
-    "status": "degraded",
-    "uptime": "96.19%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.19%",
-    "uptimeYear": "96.19%",
-    "time": 1934,
-    "timeDay": 1747,
-    "timeWeek": 1855,
-    "timeMonth": 1934,
-    "timeYear": 1934,
+    "status": "up",
+    "uptime": "96.17%",
+    "uptimeDay": "99.71%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "96.17%",
+    "uptimeYear": "96.17%",
+    "time": 1931,
+    "timeDay": 1723,
+    "timeWeek": 1851,
+    "timeMonth": 1931,
+    "timeYear": 1931,
     "dailyMinutesDown": {
       "2026-10-30": 196,
       "2026-10-31": 386,
-      "2026-11-08": 0
+      "2026-11-08": 4
     }
   }
 ]
