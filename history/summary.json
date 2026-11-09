@@ -22,19 +22,20 @@
     "url": "https://auth.inveo.cl/.well-known/openid-configuration",
     "icon": "https://icons.duckduckgo.com/ip3/auth.inveo.cl.ico",
     "slug": "inicio-de-sesion",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.95%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 1121,
-    "timeDay": 1156,
-    "timeWeek": 1092,
-    "timeMonth": 1121,
-    "timeYear": 1121,
+    "time": 1132,
+    "timeDay": 1235,
+    "timeWeek": 1106,
+    "timeMonth": 1132,
+    "timeYear": 1132,
     "dailyMinutesDown": {
-      "2026-11-05": 5
+      "2026-11-05": 5,
+      "2026-11-09": 1
     }
   },
   {
@@ -42,18 +43,20 @@
     "url": "https://radar.inveo.cl/",
     "icon": "https://icons.duckduckgo.com/ip3/radar.inveo.cl.ico",
     "slug": "radar-de-licitaciones",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1763,
-    "timeDay": 1698,
-    "timeWeek": 1710,
-    "timeMonth": 1763,
-    "timeYear": 1763,
-    "dailyMinutesDown": {}
+    "time": 1774,
+    "timeDay": 1792,
+    "timeWeek": 1724,
+    "timeMonth": 1774,
+    "timeYear": 1774,
+    "dailyMinutesDown": {
+      "2026-11-09": 0
+    }
   },
   {
     "name": "API",
@@ -61,11 +64,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.inveo.cl.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "96.41%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "96.41%",
-    "uptimeYear": "96.41%",
+    "uptime": "96.43%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.43%",
+    "uptimeYear": "96.43%",
     "time": 1902,
     "timeDay": 1454,
     "timeWeek": 1805,
@@ -73,8 +76,7 @@
     "timeYear": 1902,
     "dailyMinutesDown": {
       "2026-10-30": 196,
-      "2026-10-31": 386,
-      "2026-11-09": 4
+      "2026-10-31": 386
     }
   }
 ]
