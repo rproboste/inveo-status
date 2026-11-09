@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 972,
-    "timeDay": 943,
-    "timeWeek": 799,
-    "timeMonth": 972,
-    "timeYear": 972,
+    "time": 971,
+    "timeDay": 946,
+    "timeWeek": 798,
+    "timeMonth": 971,
+    "timeYear": 971,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "99.95%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
-    "time": 1115,
-    "timeDay": 1093,
-    "timeWeek": 1079,
-    "timeMonth": 1115,
-    "timeYear": 1115,
+    "time": 1113,
+    "timeDay": 1096,
+    "timeWeek": 1065,
+    "timeMonth": 1113,
+    "timeYear": 1113,
     "dailyMinutesDown": {
       "2026-11-05": 5
     }
@@ -42,18 +42,20 @@
     "url": "https://radar.inveo.cl/",
     "icon": "https://icons.duckduckgo.com/ip3/radar.inveo.cl.ico",
     "slug": "radar-de-licitaciones",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1756,
-    "timeDay": 1813,
-    "timeWeek": 1646,
-    "timeMonth": 1756,
-    "timeYear": 1756,
-    "dailyMinutesDown": {}
+    "time": 1766,
+    "timeDay": 1771,
+    "timeWeek": 1665,
+    "timeMonth": 1766,
+    "timeYear": 1766,
+    "dailyMinutesDown": {
+      "2026-11-09": 0
+    }
   },
   {
     "name": "API",
@@ -61,20 +63,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.inveo.cl.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "96.51%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "96.51%",
-    "uptimeYear": "96.51%",
-    "time": 1924,
-    "timeDay": 1740,
+    "uptime": "96.55%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.55%",
+    "uptimeYear": "96.55%",
+    "time": 1921,
+    "timeDay": 1741,
     "timeWeek": 1804,
-    "timeMonth": 1924,
-    "timeYear": 1924,
+    "timeMonth": 1921,
+    "timeYear": 1921,
     "dailyMinutesDown": {
       "2026-10-30": 196,
-      "2026-10-31": 386,
-      "2026-11-09": 4
+      "2026-10-31": 386
     }
   }
 ]
