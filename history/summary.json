@@ -24,7 +24,7 @@
     "slug": "inicio-de-sesion",
     "status": "degraded",
     "uptime": "99.97%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "99.95%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.97%",
@@ -35,7 +35,7 @@
     "timeYear": 1122,
     "dailyMinutesDown": {
       "2026-11-05": 5,
-      "2026-11-09": 0
+      "2026-11-09": 1
     }
   },
   {
