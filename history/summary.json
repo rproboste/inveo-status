@@ -61,11 +61,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.inveo.cl.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "96.80%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "96.80%",
-    "uptimeYear": "96.80%",
+    "uptime": "96.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "96.81%",
+    "uptimeYear": "96.81%",
     "time": 1939,
     "timeDay": 2104,
     "timeWeek": 1826,
@@ -73,8 +73,7 @@
     "timeYear": 1939,
     "dailyMinutesDown": {
       "2026-10-30": 196,
-      "2026-10-31": 386,
-      "2026-11-10": 1
+      "2026-10-31": 386
     }
   }
 ]
