@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 941,
     "timeDay": 795,
-    "timeWeek": 800,
+    "timeWeek": 799,
     "timeMonth": 941,
     "timeYear": 941,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "99.98%",
     "time": 1079,
     "timeDay": 770,
-    "timeWeek": 991,
+    "timeWeek": 994,
     "timeMonth": 1079,
     "timeYear": 1079,
     "dailyMinutesDown": {
@@ -42,19 +42,19 @@
     "url": "https://radar.inveo.cl/",
     "icon": "https://icons.duckduckgo.com/ip3/radar.inveo.cl.ico",
     "slug": "radar-de-licitaciones",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1738,
-    "timeDay": 1565,
-    "timeWeek": 1630,
-    "timeMonth": 1738,
-    "timeYear": 1738,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1735,
+    "timeDay": 1541,
+    "timeWeek": 1631,
+    "timeMonth": 1735,
+    "timeYear": 1735,
     "dailyMinutesDown": {
-      "2026-11-11": 0
+      "2026-11-11": 5
     }
   },
   {
