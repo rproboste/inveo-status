@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 923,
-    "timeDay": 933,
-    "timeWeek": 820,
+    "timeDay": 930,
+    "timeWeek": 821,
     "timeMonth": 923,
     "timeYear": 923,
     "dailyMinutesDown": {}
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 1050,
-    "timeDay": 877,
+    "time": 1049,
+    "timeDay": 878,
     "timeWeek": 966,
-    "timeMonth": 1050,
-    "timeYear": 1050,
+    "timeMonth": 1049,
+    "timeYear": 1049,
     "dailyMinutesDown": {
       "2026-11-05": 5
     }
@@ -43,19 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/radar.inveo.cl.ico",
     "slug": "radar-de-licitaciones",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1717,
-    "timeDay": 1874,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1715,
+    "timeDay": 1873,
     "timeWeek": 1664,
-    "timeMonth": 1717,
-    "timeYear": 1717,
-    "dailyMinutesDown": {
-      "2026-11-13": 4
-    }
+    "timeMonth": 1715,
+    "timeYear": 1715,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -63,20 +61,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.inveo.cl.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "97.46%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "97.46%",
-    "uptimeYear": "97.46%",
-    "time": 1963,
-    "timeDay": 1521,
+    "uptime": "97.47%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "97.47%",
+    "uptimeYear": "97.47%",
+    "time": 1961,
+    "timeDay": 1520,
     "timeWeek": 1890,
-    "timeMonth": 1963,
-    "timeYear": 1963,
+    "timeMonth": 1961,
+    "timeYear": 1961,
     "dailyMinutesDown": {
       "2026-10-30": 196,
-      "2026-10-31": 386,
-      "2026-11-13": 4
+      "2026-10-31": 386
     }
   }
 ]
