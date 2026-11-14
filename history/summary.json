@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 920,
-    "timeDay": 767,
-    "timeWeek": 822,
-    "timeMonth": 920,
-    "timeYear": 920,
+    "time": 919,
+    "timeDay": 765,
+    "timeWeek": 821,
+    "timeMonth": 919,
+    "timeYear": 919,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 1039,
-    "timeDay": 756,
-    "timeWeek": 966,
-    "timeMonth": 1039,
-    "timeYear": 1039,
+    "time": 1038,
+    "timeDay": 755,
+    "timeWeek": 965,
+    "timeMonth": 1038,
+    "timeYear": 1038,
     "dailyMinutesDown": {
       "2026-11-05": 5
     }
@@ -43,19 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/radar.inveo.cl.ico",
     "slug": "radar-de-licitaciones",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1716,
-    "timeDay": 1780,
-    "timeWeek": 1633,
-    "timeMonth": 1716,
-    "timeYear": 1716,
-    "dailyMinutesDown": {
-      "2026-11-14": 4
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1714,
+    "timeDay": 1783,
+    "timeWeek": 1634,
+    "timeMonth": 1714,
+    "timeYear": 1714,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -63,20 +61,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.inveo.cl.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "97.51%",
-    "uptimeDay": "99.75%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "97.51%",
-    "uptimeYear": "97.51%",
-    "time": 1958,
-    "timeDay": 1523,
+    "uptime": "97.53%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "97.53%",
+    "uptimeYear": "97.53%",
+    "time": 1956,
+    "timeDay": 1526,
     "timeWeek": 1922,
-    "timeMonth": 1958,
-    "timeYear": 1958,
+    "timeMonth": 1956,
+    "timeYear": 1956,
     "dailyMinutesDown": {
       "2026-10-30": 196,
-      "2026-10-31": 386,
-      "2026-11-14": 4
+      "2026-10-31": 386
     }
   }
 ]
