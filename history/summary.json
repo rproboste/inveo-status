@@ -22,19 +22,20 @@
     "url": "https://auth.inveo.cl/.well-known/openid-configuration",
     "icon": "https://icons.duckduckgo.com/ip3/auth.inveo.cl.ico",
     "slug": "inicio-de-sesion",
-    "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1047,
-    "timeDay": 1020,
-    "timeWeek": 1019,
-    "timeMonth": 1047,
-    "timeYear": 1047,
+    "status": "degraded",
+    "uptime": "99.97%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1075,
+    "timeDay": 1398,
+    "timeWeek": 1077,
+    "timeMonth": 1075,
+    "timeYear": 1075,
     "dailyMinutesDown": {
-      "2026-11-05": 5
+      "2026-11-05": 5,
+      "2026-11-14": 3
     }
   },
   {
@@ -42,30 +43,32 @@
     "url": "https://radar.inveo.cl/",
     "icon": "https://icons.duckduckgo.com/ip3/radar.inveo.cl.ico",
     "slug": "radar-de-licitaciones",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1724,
-    "timeDay": 1843,
-    "timeWeek": 1659,
-    "timeMonth": 1724,
-    "timeYear": 1724,
-    "dailyMinutesDown": {}
+    "status": "degraded",
+    "uptime": "99.99%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1744,
+    "timeDay": 2112,
+    "timeWeek": 1702,
+    "timeMonth": 1744,
+    "timeYear": 1744,
+    "dailyMinutesDown": {
+      "2026-11-14": 2
+    }
   },
   {
     "name": "API",
     "url": "https://api.inveo.cl/ip/v1/",
     "icon": "https://icons.duckduckgo.com/ip3/api.inveo.cl.ico",
     "slug": "api",
-    "status": "up",
-    "uptime": "97.62%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "97.63%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.62%",
-    "uptimeYear": "97.62%",
+    "uptimeMonth": "97.63%",
+    "uptimeYear": "97.63%",
     "time": 1943,
     "timeDay": 1691,
     "timeWeek": 1940,
@@ -73,7 +76,8 @@
     "timeYear": 1943,
     "dailyMinutesDown": {
       "2026-10-30": 196,
-      "2026-10-31": 386
+      "2026-10-31": 386,
+      "2026-11-14": 0
     }
   }
 ]
