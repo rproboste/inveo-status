@@ -22,20 +22,20 @@
     "url": "https://auth.inveo.cl/.well-known/openid-configuration",
     "icon": "https://icons.duckduckgo.com/ip3/auth.inveo.cl.ico",
     "slug": "inicio-de-sesion",
-    "status": "degraded",
-    "uptime": "99.98%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1095,
-    "timeDay": 1771,
-    "timeWeek": 1072,
-    "timeMonth": 1095,
-    "timeYear": 1095,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1094,
+    "timeDay": 1737,
+    "timeWeek": 1070,
+    "timeMonth": 1094,
+    "timeYear": 1094,
     "dailyMinutesDown": {
       "2026-11-05": 5,
-      "2026-11-15": 1
+      "2026-11-15": 3
     }
   },
   {
@@ -44,19 +44,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/radar.inveo.cl.ico",
     "slug": "radar-de-licitaciones",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1761,
     "timeDay": 2475,
     "timeWeek": 1749,
     "timeMonth": 1761,
     "timeYear": 1761,
-    "dailyMinutesDown": {
-      "2026-11-15": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
