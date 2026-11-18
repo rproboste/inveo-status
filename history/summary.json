@@ -4,18 +4,20 @@
     "url": "https://inveo.cl/",
     "icon": "https://icons.duckduckgo.com/ip3/inveo.cl.ico",
     "slug": "portal",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 886,
-    "timeDay": 777,
-    "timeWeek": 796,
-    "timeMonth": 886,
-    "timeYear": 886,
-    "dailyMinutesDown": {}
+    "time": 895,
+    "timeDay": 950,
+    "timeWeek": 821,
+    "timeMonth": 895,
+    "timeYear": 895,
+    "dailyMinutesDown": {
+      "2026-11-18": 1
+    }
   },
   {
     "name": "Inicio de sesión",
@@ -60,20 +62,21 @@
     "url": "https://api.inveo.cl/ip/v1/",
     "icon": "https://icons.duckduckgo.com/ip3/api.inveo.cl.ico",
     "slug": "api",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.02%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.02%",
     "uptimeYear": "98.02%",
-    "time": 1843,
-    "timeDay": 1384,
-    "timeWeek": 1656,
-    "timeMonth": 1843,
-    "timeYear": 1843,
+    "time": 1847,
+    "timeDay": 1498,
+    "timeWeek": 1670,
+    "timeMonth": 1847,
+    "timeYear": 1847,
     "dailyMinutesDown": {
       "2026-10-30": 196,
-      "2026-10-31": 386
+      "2026-10-31": 386,
+      "2026-11-18": 0
     }
   }
 ]
