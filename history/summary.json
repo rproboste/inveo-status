@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 892,
-    "timeDay": 949,
-    "timeWeek": 817,
-    "timeMonth": 892,
-    "timeYear": 892,
+    "time": 891,
+    "timeDay": 948,
+    "timeWeek": 816,
+    "timeMonth": 891,
+    "timeYear": 891,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 1037,
-    "timeDay": 902,
-    "timeWeek": 956,
-    "timeMonth": 1037,
-    "timeYear": 1037,
+    "time": 1036,
+    "timeDay": 905,
+    "timeWeek": 955,
+    "timeMonth": 1036,
+    "timeYear": 1036,
     "dailyMinutesDown": {
       "2026-11-05": 5
     }
@@ -43,19 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/radar.inveo.cl.ico",
     "slug": "radar-de-licitaciones",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1674,
-    "timeDay": 1352,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1673,
+    "timeDay": 1351,
     "timeWeek": 1590,
-    "timeMonth": 1674,
-    "timeYear": 1674,
-    "dailyMinutesDown": {
-      "2026-11-18": 4
-    }
+    "timeMonth": 1673,
+    "timeYear": 1673,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -63,20 +61,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.inveo.cl.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "98.05%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "98.05%",
-    "uptimeYear": "98.05%",
-    "time": 1838,
-    "timeDay": 1372,
-    "timeWeek": 1659,
-    "timeMonth": 1838,
-    "timeYear": 1838,
+    "uptime": "98.06%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "98.06%",
+    "uptimeYear": "98.06%",
+    "time": 1837,
+    "timeDay": 1375,
+    "timeWeek": 1636,
+    "timeMonth": 1837,
+    "timeYear": 1837,
     "dailyMinutesDown": {
       "2026-10-30": 196,
       "2026-10-31": 386,
-      "2026-11-18": 9
+      "2026-11-18": 5
     }
   }
 ]
