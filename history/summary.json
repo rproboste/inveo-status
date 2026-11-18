@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/inveo.cl.ico",
     "slug": "portal",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 895,
-    "timeDay": 941,
-    "timeWeek": 821,
+    "timeDay": 944,
+    "timeWeek": 820,
     "timeMonth": 895,
     "timeYear": 895,
-    "dailyMinutesDown": {
-      "2026-11-18": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Inicio de sesión",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 1035,
-    "timeDay": 606,
+    "time": 1034,
+    "timeDay": 610,
     "timeWeek": 959,
-    "timeMonth": 1035,
-    "timeYear": 1035,
+    "timeMonth": 1034,
+    "timeYear": 1034,
     "dailyMinutesDown": {
       "2026-11-05": 5
     }
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1673,
-    "timeDay": 1341,
+    "time": 1672,
+    "timeDay": 1337,
     "timeWeek": 1574,
-    "timeMonth": 1673,
-    "timeYear": 1673,
+    "timeMonth": 1672,
+    "timeYear": 1672,
     "dailyMinutesDown": {}
   },
   {
@@ -63,20 +61,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.inveo.cl.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "98.01%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "98.01%",
-    "uptimeYear": "98.01%",
-    "time": 1846,
-    "timeDay": 1478,
-    "timeWeek": 1667,
-    "timeMonth": 1846,
-    "timeYear": 1846,
+    "uptime": "98.02%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.02%",
+    "uptimeYear": "98.02%",
+    "time": 1844,
+    "timeDay": 1473,
+    "timeWeek": 1666,
+    "timeMonth": 1844,
+    "timeYear": 1844,
     "dailyMinutesDown": {
       "2026-10-30": 196,
-      "2026-10-31": 386,
-      "2026-11-18": 4
+      "2026-10-31": 386
     }
   }
 ]
