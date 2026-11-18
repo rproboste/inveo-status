@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 893,
-    "timeDay": 939,
-    "timeWeek": 819,
+    "timeDay": 941,
+    "timeWeek": 820,
     "timeMonth": 893,
     "timeYear": 893,
     "dailyMinutesDown": {}
@@ -23,19 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.inveo.cl.ico",
     "slug": "inicio-de-sesion",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 1042,
-    "timeDay": 904,
-    "timeWeek": 956,
+    "timeDay": 916,
+    "timeWeek": 958,
     "timeMonth": 1042,
     "timeYear": 1042,
     "dailyMinutesDown": {
-      "2026-11-05": 5,
-      "2026-11-18": 5
+      "2026-11-05": 5
     }
   },
   {
@@ -50,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1661,
-    "timeDay": 1039,
-    "timeWeek": 1543,
+    "timeDay": 1046,
+    "timeWeek": 1546,
     "timeMonth": 1661,
     "timeYear": 1661,
     "dailyMinutesDown": {}
@@ -68,8 +67,8 @@
     "uptimeMonth": "98.05%",
     "uptimeYear": "98.05%",
     "time": 1833,
-    "timeDay": 1234,
-    "timeWeek": 1633,
+    "timeDay": 1253,
+    "timeWeek": 1637,
     "timeMonth": 1833,
     "timeYear": 1833,
     "dailyMinutesDown": {
