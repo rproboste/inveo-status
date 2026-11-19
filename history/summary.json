@@ -22,20 +22,20 @@
     "url": "https://auth.inveo.cl/.well-known/openid-configuration",
     "icon": "https://icons.duckduckgo.com/ip3/auth.inveo.cl.ico",
     "slug": "inicio-de-sesion",
-    "status": "degraded",
-    "uptime": "99.98%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1031,
-    "timeDay": 886,
-    "timeWeek": 970,
-    "timeMonth": 1031,
-    "timeYear": 1031,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1030,
+    "timeDay": 872,
+    "timeWeek": 967,
+    "timeMonth": 1030,
+    "timeYear": 1030,
     "dailyMinutesDown": {
       "2026-11-05": 5,
-      "2026-11-19": 1
+      "2026-11-19": 5
     }
   },
   {
@@ -69,7 +69,7 @@
     "uptimeYear": "98.14%",
     "time": 1855,
     "timeDay": 2136,
-    "timeWeek": 1603,
+    "timeWeek": 1607,
     "timeMonth": 1855,
     "timeYear": 1855,
     "dailyMinutesDown": {
