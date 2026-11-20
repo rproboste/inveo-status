@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 889,
-    "timeDay": 940,
+    "timeDay": 935,
     "timeWeek": 821,
     "timeMonth": 889,
     "timeYear": 889,
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 1030,
-    "timeDay": 1024,
-    "timeWeek": 988,
-    "timeMonth": 1030,
-    "timeYear": 1030,
+    "time": 1029,
+    "timeDay": 1023,
+    "timeWeek": 989,
+    "timeMonth": 1029,
+    "timeYear": 1029,
     "dailyMinutesDown": {
       "2026-11-05": 5
     }
@@ -43,19 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/radar.inveo.cl.ico",
     "slug": "radar-de-licitaciones",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 1648,
-    "timeDay": 1250,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1647,
+    "timeDay": 1249,
     "timeWeek": 1545,
-    "timeMonth": 1648,
-    "timeYear": 1648,
-    "dailyMinutesDown": {
-      "2026-11-20": 5
-    }
+    "timeMonth": 1647,
+    "timeYear": 1647,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -63,21 +61,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.inveo.cl.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "98.21%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "98.21%",
-    "uptimeYear": "98.21%",
-    "time": 1845,
+    "uptime": "98.22%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "98.22%",
+    "uptimeYear": "98.22%",
+    "time": 1844,
     "timeDay": 1635,
-    "timeWeek": 1590,
-    "timeMonth": 1845,
-    "timeYear": 1845,
+    "timeWeek": 1589,
+    "timeMonth": 1844,
+    "timeYear": 1844,
     "dailyMinutesDown": {
       "2026-10-30": 196,
       "2026-10-31": 386,
-      "2026-11-18": 5,
-      "2026-11-20": 5
+      "2026-11-18": 5
     }
   }
 ]
