@@ -5,39 +5,37 @@
     "icon": "https://icons.duckduckgo.com/ip3/inveo.cl.ico",
     "slug": "portal",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 890,
     "timeDay": 943,
     "timeWeek": 823,
     "timeMonth": 890,
     "timeYear": 890,
-    "dailyMinutesDown": {
-      "2026-11-20": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Inicio de sesión",
     "url": "https://auth.inveo.cl/.well-known/openid-configuration",
     "icon": "https://icons.duckduckgo.com/ip3/auth.inveo.cl.ico",
     "slug": "inicio-de-sesion",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 1024,
-    "timeDay": 962,
-    "timeWeek": 970,
-    "timeMonth": 1024,
-    "timeYear": 1024,
+    "status": "degraded",
+    "uptime": "99.99%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1032,
+    "timeDay": 1100,
+    "timeWeek": 992,
+    "timeMonth": 1032,
+    "timeYear": 1032,
     "dailyMinutesDown": {
       "2026-11-05": 5,
-      "2026-11-20": 4
+      "2026-11-20": 0
     }
   },
   {
@@ -46,19 +44,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/radar.inveo.cl.ico",
     "slug": "radar-de-licitaciones",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.74%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1646,
     "timeDay": 1249,
     "timeWeek": 1532,
     "timeMonth": 1646,
     "timeYear": 1646,
-    "dailyMinutesDown": {
-      "2026-11-20": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -66,11 +62,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.inveo.cl.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "98.21%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "98.21%",
-    "uptimeYear": "98.21%",
+    "uptime": "98.22%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "98.22%",
+    "uptimeYear": "98.22%",
     "time": 1846,
     "timeDay": 1587,
     "timeWeek": 1584,
@@ -79,8 +75,7 @@
     "dailyMinutesDown": {
       "2026-10-30": 196,
       "2026-10-31": 386,
-      "2026-11-18": 5,
-      "2026-11-20": 3
+      "2026-11-18": 5
     }
   }
 ]
