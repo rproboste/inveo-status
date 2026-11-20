@@ -44,8 +44,8 @@
     "slug": "radar-de-licitaciones",
     "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1652,
@@ -54,7 +54,7 @@
     "timeMonth": 1652,
     "timeYear": 1652,
     "dailyMinutesDown": {
-      "2026-11-20": 0
+      "2026-11-20": 1
     }
   },
   {
