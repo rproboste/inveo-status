@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 887,
-    "timeDay": 936,
+    "timeDay": 934,
     "timeWeek": 826,
     "timeMonth": 887,
     "timeYear": 887,
@@ -22,20 +22,20 @@
     "url": "https://auth.inveo.cl/.well-known/openid-configuration",
     "icon": "https://icons.duckduckgo.com/ip3/auth.inveo.cl.ico",
     "slug": "inicio-de-sesion",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 1044,
-    "timeDay": 1454,
-    "timeWeek": 1050,
-    "timeMonth": 1044,
-    "timeYear": 1044,
+    "status": "degraded",
+    "uptime": "99.98%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1049,
+    "timeDay": 1458,
+    "timeWeek": 1066,
+    "timeMonth": 1049,
+    "timeYear": 1049,
     "dailyMinutesDown": {
       "2026-11-05": 5,
-      "2026-11-21": 4
+      "2026-11-21": 2
     }
   },
   {
@@ -50,8 +50,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1641,
-    "timeDay": 1439,
-    "timeWeek": 1467,
+    "timeDay": 1458,
+    "timeWeek": 1461,
     "timeMonth": 1641,
     "timeYear": 1641,
     "dailyMinutesDown": {}
@@ -61,21 +61,22 @@
     "url": "https://api.inveo.cl/ip/v1/",
     "icon": "https://icons.duckduckgo.com/ip3/api.inveo.cl.ico",
     "slug": "api",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.27%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.95%",
     "uptimeMonth": "98.27%",
     "uptimeYear": "98.27%",
-    "time": 1833,
-    "timeDay": 1549,
-    "timeWeek": 1572,
-    "timeMonth": 1833,
-    "timeYear": 1833,
+    "time": 1845,
+    "timeDay": 1639,
+    "timeWeek": 1609,
+    "timeMonth": 1845,
+    "timeYear": 1845,
     "dailyMinutesDown": {
       "2026-10-30": 196,
       "2026-10-31": 386,
-      "2026-11-18": 5
+      "2026-11-18": 5,
+      "2026-11-21": 0
     }
   }
 ]
