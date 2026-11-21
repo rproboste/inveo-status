@@ -62,8 +62,8 @@
     "slug": "api",
     "status": "up",
     "uptime": "98.25%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.95%",
     "uptimeMonth": "98.25%",
     "uptimeYear": "98.25%",
     "time": 1834,
@@ -74,8 +74,7 @@
     "dailyMinutesDown": {
       "2026-10-30": 196,
       "2026-10-31": 386,
-      "2026-11-18": 5,
-      "2026-11-21": 1
+      "2026-11-18": 5
     }
   }
 ]
