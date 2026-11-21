@@ -49,8 +49,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1643,
-    "timeDay": 1425,
-    "timeWeek": 1482,
+    "timeDay": 1447,
+    "timeWeek": 1485,
     "timeMonth": 1643,
     "timeYear": 1643,
     "dailyMinutesDown": {}
@@ -62,20 +62,19 @@
     "slug": "api",
     "status": "up",
     "uptime": "98.26%",
-    "uptimeDay": "99.94%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.95%",
     "uptimeMonth": "98.26%",
     "uptimeYear": "98.26%",
     "time": 1835,
-    "timeDay": 1781,
+    "timeDay": 1745,
     "timeWeek": 1569,
     "timeMonth": 1835,
     "timeYear": 1835,
     "dailyMinutesDown": {
       "2026-10-30": 196,
       "2026-10-31": 386,
-      "2026-11-18": 5,
-      "2026-11-21": 1
+      "2026-11-18": 5
     }
   }
 ]
