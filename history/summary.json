@@ -44,7 +44,7 @@
     "slug": "radar-de-licitaciones",
     "status": "degraded",
     "uptime": "99.99%",
-    "uptimeDay": "99.86%",
+    "uptimeDay": "99.83%",
     "uptimeWeek": "99.98%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
@@ -64,7 +64,7 @@
     "slug": "api",
     "status": "down",
     "uptime": "98.24%",
-    "uptimeDay": "99.98%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "99.95%",
     "uptimeMonth": "98.24%",
     "uptimeYear": "98.24%",
@@ -77,7 +77,7 @@
       "2026-10-30": 196,
       "2026-10-31": 386,
       "2026-11-18": 5,
-      "2026-11-21": 0
+      "2026-11-21": 1
     }
   }
 ]
