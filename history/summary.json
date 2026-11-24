@@ -22,19 +22,20 @@
     "url": "https://auth.inveo.cl/.well-known/openid-configuration",
     "icon": "https://icons.duckduckgo.com/ip3/auth.inveo.cl.ico",
     "slug": "inicio-de-sesion",
-    "status": "up",
+    "status": "degraded",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 1030,
-    "timeDay": 607,
-    "timeWeek": 940,
-    "timeMonth": 1030,
-    "timeYear": 1030,
+    "time": 1040,
+    "timeDay": 1492,
+    "timeWeek": 985,
+    "timeMonth": 1040,
+    "timeYear": 1040,
     "dailyMinutesDown": {
-      "2026-11-05": 5
+      "2026-11-05": 5,
+      "2026-11-24": 1
     }
   },
   {
@@ -50,7 +51,7 @@
     "uptimeYear": "100.00%",
     "time": 1622,
     "timeDay": 1761,
-    "timeWeek": 1392,
+    "timeWeek": 1395,
     "timeMonth": 1622,
     "timeYear": 1622,
     "dailyMinutesDown": {}
@@ -60,21 +61,22 @@
     "url": "https://api.inveo.cl/ip/v1/",
     "icon": "https://icons.duckduckgo.com/ip3/api.inveo.cl.ico",
     "slug": "api",
-    "status": "up",
+    "status": "degraded",
     "uptime": "98.45%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.95%",
     "uptimeMonth": "98.45%",
     "uptimeYear": "98.45%",
-    "time": 1838,
-    "timeDay": 1718,
-    "timeWeek": 1730,
-    "timeMonth": 1838,
-    "timeYear": 1838,
+    "time": 1842,
+    "timeDay": 2052,
+    "timeWeek": 1755,
+    "timeMonth": 1842,
+    "timeYear": 1842,
     "dailyMinutesDown": {
       "2026-10-30": 196,
       "2026-10-31": 386,
-      "2026-11-18": 5
+      "2026-11-18": 5,
+      "2026-11-24": 0
     }
   }
 ]
