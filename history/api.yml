@@ -1,7 +1,7 @@
 url: https://api.inveo.cl/ip/v1/
-status: up
+status: degraded
 code: 200
-responseTime: 635
-lastUpdated: 2026-11-24T09:28:54.532Z
+responseTime: 9185
+lastUpdated: 2026-11-24T09:43:15.191Z
 startTime: 2026-10-28T20:13:51.563Z
 generator: Upptime <https://github.com/upptime/upptime>
