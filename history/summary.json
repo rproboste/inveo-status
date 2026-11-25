@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 876,
-    "timeDay": 797,
-    "timeWeek": 816,
+    "timeDay": 791,
+    "timeWeek": 815,
     "timeMonth": 876,
     "timeYear": 876,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 1023,
-    "timeDay": 663,
-    "timeWeek": 990,
+    "timeDay": 656,
+    "timeWeek": 991,
     "timeMonth": 1023,
     "timeYear": 1023,
     "dailyMinutesDown": {
@@ -43,19 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/radar.inveo.cl.ico",
     "slug": "radar-de-licitaciones",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 1613,
-    "timeDay": 1420,
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1612,
+    "timeDay": 1359,
     "timeWeek": 1426,
-    "timeMonth": 1613,
-    "timeYear": 1613,
-    "dailyMinutesDown": {
-      "2026-11-25": 5
-    }
+    "timeMonth": 1612,
+    "timeYear": 1612,
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -63,21 +61,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.inveo.cl.ico",
     "slug": "api",
     "status": "up",
-    "uptime": "98.51%",
-    "uptimeDay": "99.71%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "98.51%",
-    "uptimeYear": "98.51%",
-    "time": 1848,
-    "timeDay": 2068,
+    "uptime": "98.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "98.52%",
+    "uptimeYear": "98.52%",
+    "time": 1847,
+    "timeDay": 2069,
     "timeWeek": 1861,
-    "timeMonth": 1848,
-    "timeYear": 1848,
+    "timeMonth": 1847,
+    "timeYear": 1847,
     "dailyMinutesDown": {
       "2026-10-30": 196,
       "2026-10-31": 386,
-      "2026-11-18": 5,
-      "2026-11-25": 4
+      "2026-11-18": 5
     }
   }
 ]
